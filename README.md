@@ -30,7 +30,7 @@ perl -i -pe 's/AT_CHECK/TORCH_CHECK/' $cuda_dir/deform_pool_cuda.cu $cuda_dir/de
 python setup.py build develop
 ```
 ## Data Preparation
-* Follow steps in [datasets/README.md](https://github.com/salesforce/pb-ovd/datasets/README.md) for data preparation
+* Follow steps in [datasets/README.md](https://github.com/salesforce/PB-OVD/blob/master/datasets/README.md) for data preparation
 
 ## Inference
 * Download our [pre-trained model](https://storage.cloud.google.com/sfr-pb-ovd-research/models/pretrain.pth) and [fine-tuned model](https://storage.cloud.google.com/sfr-pb-ovd-research/models/finetune.pth)
@@ -78,7 +78,7 @@ bash gen_plabel_install.sh
 ```
 ### Preparation
 
-* Referring [examples/README.md](https://github.com/salesforce/pb-ovd/examples/README.md]) for data preparation
+* Referring [examples/README.md](https://github.com/salesforce/PB-OVD/blob/master/examples/README.md) for data preparation
 
 ### Generate Pseudo Labels
 * Get pseudo labels based on [ALBEF](https://arxiv.org/abs/2107.07651)
