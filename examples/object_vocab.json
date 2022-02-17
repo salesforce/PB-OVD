@@ -1,0 +1,19 @@
+{
+    "umbrella": ["umbrella"],
+    "cow": ["cow"],
+    "cup": ["cup"],
+    "bus": ["bus"],
+    "keyboard": ["keyboard"],
+    "skateboard": ["skateboard"],
+    "dog": ["dog"],
+    "couch": ["couch"],
+    "tie": ["tie"],
+    "snowboard": ["snowboard"],
+    "sink": ["sink"],
+    "elephant": ["elephant"],
+    "cake": ["cake"],
+    "scissors": ["scissors"],
+    "airplane": ["airplane"],
+    "cat": ["cat"],
+    "knife": ["knife"]
+}
