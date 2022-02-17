@@ -120,3 +120,7 @@ python visualize_coco_style_dataset.py
 ## Contact
 
 * Please send an email to mingfei.gao@salesforce.com or cxing@salesforce.com if you have questions.
+
+## Notes
+
+* Files obtained from [maskrcnn_benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) are covered under the MIT license.
