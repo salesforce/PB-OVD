@@ -1,7 +1,7 @@
-# Towards Open Vocabulary Object Detection without Human-provided Bounding Boxes
+# Open Vocabulary Object Detection with Pseudo Bounding-Box Labels
 
 ## Introduction
-This is an official pytorch implementation of [Towards Open Vocabulary Object Detection without Human-provided Bounding Boxes](https://arxiv.org/pdf/2111.09452.pdf).
+This is an official pytorch implementation of [Open Vocabulary Object Detection with Pseudo Bounding-Box Labels](https://arxiv.org/pdf/2111.09452.pdf).
 ![network](figs/pipeline.jpg?raw=true)
 ## Environment
 ```angular2
@@ -110,7 +110,7 @@ python visualize_coco_style_dataset.py
 * If you find this code helpful, please cite our paper:
 ``` latex
 @article{gao2021towards,
-  title={Towards Open Vocabulary Object Detection without Human-provided Bounding Boxes},
+  title={Open Vocabulary Object Detection with Pseudo Bounding-Box Labels},
   author={Gao, Mingfei and Xing, Chen and Niebles, Juan Carlos and Li, Junnan and Xu, Ran and Liu, Wenhao and Xiong, Caiming},
   journal={arXiv preprint arXiv:2111.09452},
   year={2021}
